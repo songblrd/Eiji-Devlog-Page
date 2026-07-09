@@ -42,16 +42,11 @@ Right now I'm running test streams to test latency (I'm running everything on on
 
 ## What's next:
 
-- I want to refine his fine-tune training data (which I wrote by hand, all 500+ examples of it) to include Apex Legends information so that he's not just throwing things to the wind + he knows what I mean when I say certain terminologies!
-- Better conversational data
-- Make him more entertaining
+- Make him be able to predict calls (almost done, just needs testing
+- make him more entertaining
+- he panics when my shield breaks in apex
 
-## Long term stuff:
 
-- Upgrade his vision so that he can nag me about any enemies I don't see coming / nags me on my decisions
-- Upgrade vision in general tbh!
-- Upgrade pc/maybe move him onto his own machine so I have room for said vision upgrades(super long term, need money for that!)
-- Have him be able to react to me improving at the games I play(!)
 
 ## Technical Stuff:
 
